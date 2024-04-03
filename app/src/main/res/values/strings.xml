@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CryptoCurrencyApp</string>
+    <string name="symbol">Symbol</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="coinImage">coinImage</string>
+    <string name="search">Search</string>
+    <string name="searchInputText">Search</string>
+    <string name="api_key">CG-ZLaERJyPtuemeiunfaEJQFDV</string>
+</resources>
