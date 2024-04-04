@@ -7,4 +7,6 @@
     <string name="search">Search</string>
     <string name="searchInputText">Search</string>
     <string name="api_key">CG-ZLaERJyPtuemeiunfaEJQFDV</string>
+    <string name="rank">100</string>
+    <string name="market_cap">Market Cap</string>
 </resources>

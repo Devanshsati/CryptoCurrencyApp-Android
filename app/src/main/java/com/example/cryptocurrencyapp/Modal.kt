@@ -5,5 +5,6 @@ class Modal(
     val symbol: String,
     val price: String,
     val image: String,
-    val marketCapRank: Int
+    val marketCapRank: String,
+    val marketCap: String
 )
